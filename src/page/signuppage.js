@@ -53,7 +53,7 @@ export default function Signup() {
             <div className="mb-5">
               {" "}
               Already have an account ?{" "}
-              <a href="" className="text-blue-400 hover:text-blue-600 ml-3">
+              <a href="" className="text-blue-400 hover:text-blue-600 ml-1">
                 Login
               </a>
             </div>
