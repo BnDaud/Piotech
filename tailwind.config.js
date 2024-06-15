@@ -5,7 +5,10 @@ module.exports = {
     extend: {
       backgroundImage: {
         background: "url(./staticimages/39.jpg)",
-        // arrow: "url(./staticimages/arrow.png)",
+      },
+      colors: {
+        general_blue: "#18203D",
+        amber_gold: "#FBC507",
       },
     },
   },
